@@ -1,0 +1,13 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.genruntimeconfig.cache
